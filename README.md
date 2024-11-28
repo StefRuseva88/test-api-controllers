@@ -29,9 +29,6 @@ The objective of this project is to demonstrate the creation of integration test
 - Views: Contains UI elements like Razor views for the MVC framework.
 - Tests: This section includes integration tests for the application, focusing on the "Eventmi" app.
 
-## Contributing
-Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
-
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
